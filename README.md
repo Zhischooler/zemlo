@@ -22,7 +22,6 @@
 
 编辑 `public/config.json`：
 ````json
-json
 {
 "title": "博客标题",
 "description": "博客简介",
