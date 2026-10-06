@@ -15,7 +15,7 @@
 1. Fork 或 Use this template 创建你的仓库
 2. 修改 `public/config.json` 中的配置
 3. 在 Issues 中创建新文章（可添加任意标签）
-4. 等待 GitHub Actions 自动部署
+4. 点击`Deploy Zemlo`等待 GitHub Actions 部署
 5. 访问 `https://你的用户名.github.io/你的仓库名/`
 
 ## 配置说明
@@ -36,7 +36,7 @@
 
 ## 评论系统
 
-需要在仓库中安装 [Utterances](https://github.com/apps/utterances) GitHub App。
+需要在仓库中安装 [Utterances](https://github.com/apps/utterances)这个 GitHub App。
 
 ## License
 
