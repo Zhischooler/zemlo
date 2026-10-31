@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> 项目已停止维护，请移步至[Gmeek (meekdai开发)](https://github.com/Meekdai/Gmeek)
+---
+
 # Zemlo Blog
 
 一个极简、克制的 GitHub Issues 驱动博客模板，基于Gmeek设计。
