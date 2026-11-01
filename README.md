@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> 项目已停止维护，请移步至[Gmeek (meekdai开发)](https://github.com/Meekdai/Gmeek)
+> 项目已停止维护，替代品[Gmeek (meekdai开发)](https://github.com/Meekdai/Gmeek)
 ---
 
 # Zemlo Blog
